@@ -1,0 +1,8 @@
+[
+  { "id": "1", "name": "Snake Plant", "price": 15, "image": "https://images.pexels.com/photos/2123482/pexels-photo-2123482.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Succulent" },
+  { "id": "2", "name": "Aloe Vera", "price": 10, "image": "https://images.pexels.com/photos/904621/pexels-photo-904621.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Succulent" },
+  { "id": "3", "name": "Boston Fern", "price": 12, "image": "https://images.pexels.com/photos/3854761/pexels-photo-3854761.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Fern" },
+  { "id": "4", "name": "Maidenhair Fern", "price": 18, "image": "https://images.pexels.com/photos/12659072/pexels-photo-12659072.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Fern" },
+  { "id": "5", "name": "Peace Lily", "price": 20, "image": "https://images.pexels.com/photos/14378312/pexels-photo-14378312.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Other" },
+  { "id": "6", "name": "ZZ Plant", "price": 22, "image": "https://images.pexels.com/photos/6958598/pexels-photo-6958598.jpeg?auto=compress&cs=tinysrgb&w=600", "category": "Other" }
+]
